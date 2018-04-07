@@ -1,1 +1,4 @@
 #
+- src: jdauphant.nginx
+- src: greendayonfire.mongodb
+- src: geerlingguy.repo-epel
